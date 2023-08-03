@@ -4,12 +4,7 @@ public class TheDeepOfTree {
 
 
     public static void main(String[] args) {
-
     }
-
-
-
-
     public int maxDepthDeep(TreeNode root, int CurrentDeep) {//传入根节点
 
         //int currDeep =1;
