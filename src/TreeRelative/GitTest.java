@@ -14,6 +14,19 @@ public class GitTest {
         System.out.println("在master上面添加一些合并冲突用的代码");
         System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
 
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+
+
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+
         System.out.println("在master上面添加一些合并冲突用的代码");
         System.out.println("在master上面添加一些合并冲突用的代码");
         System.out.println("在master上面添加一些合并冲突用的代码");
