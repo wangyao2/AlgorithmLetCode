@@ -12,5 +12,11 @@ public class GitTest {
         System.out.println("在hotfix分支上面添加了新的一行代码");
         System.out.println("在hotfix分支上面添加了新的一行代码");
         System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
+        System.out.println("在hotfix分支上面添加了用于冲突合并的代码");
     }
 }
