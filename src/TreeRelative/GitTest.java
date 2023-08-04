@@ -9,5 +9,7 @@ package TreeRelative;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("测试git新创建文件！");
+        System.out.println("在hotfix分支上面添加了新的一行代码");
+        System.out.println("在hotfix分支上面添加了新的一行代码");
     }
 }
